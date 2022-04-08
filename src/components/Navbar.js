@@ -3,7 +3,7 @@ const Navbar = () => {
     return(
         <nav className="navbar">
             <div>
-                <a href="#">lifeinvader</a>
+                <a href="#" className="home-link">lifeinvader</a>
             </div>
             <div>
             <i class="fa-solid fa-magnifying-glass"></i>
